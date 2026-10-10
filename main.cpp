@@ -1,4 +1,4 @@
-// Tic-tac-toe evaluator solution
+// Tic-tac-toe evaluator solution - final version
 #include <bits/stdc++.h>
 // Solution for livandan's tic-tac-toe problem
 using namespace std;
