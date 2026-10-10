@@ -1,5 +1,6 @@
 // Tic-tac-toe evaluator solution
 #include <bits/stdc++.h>
+// Solution for livandan's tic-tac-toe problem
 using namespace std;
 
 bool checkWin(const vector<string>& b, char p) {
@@ -110,3 +111,4 @@ int main(){
     if (cntDash==0) cout<<"tie"; else cout<<"ongoing";
     return 0;
 }
+// End of program
